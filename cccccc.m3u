@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="安阳新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",安阳新闻 综合
+http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://125.46.132.10:4000/rtp/225.1.2.47:10276
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
